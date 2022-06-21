@@ -30,7 +30,7 @@ $fastFoodChains = array(
 );
 
 $thirdShoeBrand = "The 3rd brand is: " . $shoeBrands[2];
-$stephCurryTeam = "The team of Stephen Curry is: " . $nbaPlayers["Stephen Curry"]
+$stephCurryTeam = "The team of Stephen Curry is: " . $nbaPlayers["Stephen Curry"];
 $leastManager = "The Chain with the least Managers: KFC = " . $fastFoodChains["KFC"]["managers"];
 $mostEmployees = "The Chain with the most Employees: Jollibee = " . $fastFoodChains["Jollibee"]["employees"];
 
